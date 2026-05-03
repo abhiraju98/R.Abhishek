@@ -28,7 +28,8 @@ I am a Full Stack Developer with 5+ years of experience specializing in backend 
 
 ### 1️⃣ Event-Driven E-Commerce Order System
 > A scalable order processing system using event-driven architecture.
-> URL : https://github.com/abhiraju98/ecommerce-order-system.git
+
+URL : https://github.com/abhiraju98/ecommerce-order-system.git
 
 **Key Features:**
 - Asynchronous order processing
